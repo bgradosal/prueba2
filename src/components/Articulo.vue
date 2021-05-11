@@ -5,7 +5,7 @@
                 <v-btn @click="crearPDF()">
                     <v-icon>print</v-icon>
                 </v-btn>
-                <v-toolbar-title>Artículos</v-toolbar-title>
+                <v-toolbar-title>Artículo</v-toolbar-title>
                     <v-divider
                     class="mx-2"
                     inset
