@@ -5,7 +5,7 @@
                 <v-list-tile-action>
                 <v-icon>store</v-icon>
                 </v-list-tile-action>
-                <v-toolbar-title>Categorías</v-toolbar-title>
+                <v-toolbar-title>Categorías:</v-toolbar-title>
                     <v-divider
                     class="mx-2"
                     inset
